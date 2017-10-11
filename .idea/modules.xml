@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomWidget.iml" filepath="$PROJECT_DIR$/CustomWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-widget-hyf.iml" filepath="$PROJECT_DIR$/custom-widget-hyf.iml" />
     </modules>
   </component>
 </project>
